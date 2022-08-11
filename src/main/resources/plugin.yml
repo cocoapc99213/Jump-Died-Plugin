@@ -1,0 +1,5 @@
+name: JumpDiedPlugin
+version: '${project.version}'
+main: com.cocoa.jumpdied.jumpdiedplugin.JumpDiedPlugin
+authors: [ cocoapc911 ]
+description: Jumpすると死にます。
